@@ -1,0 +1,40 @@
+{
+  "status": "compiler_succeeded",
+  "started_utc": "2026-11-13T01:29:14.343Z",
+  "finished_utc": "2026-11-13T01:29:26.344Z",
+  "execution": "Portable official Lean 4.19.0 Windows runtime; command-line compiler",
+  "release": "https://github.com/leanprover/lean4/releases/tag/v4.19.0",
+  "lean_version": "Lean (version 4.19.0, x86_64-w64-windows-gnu, commit 6caaee842e94, Release)",
+  "command": "lean -o AppendixChecks.olean AppendixChecks.lean",
+  "source": "AppendixChecks.lean",
+  "source_sha256": "cac951f3fed1b3a31d95c9e35be63746e41eb353c023765561f50c68cd58d225",
+  "original_source_sha256": "a6dedeb838493db4e62c1682525faafb44a921ba2130681a2363c1433a9321ca",
+  "exit_code": 0,
+  "signal": null,
+  "declarations": [
+    "reduced_differential_square_zero",
+    "scalar_block_trace",
+    "concrete_dual_matrices_are_trace_zero",
+    "concrete_projective_dual_pairing",
+    "concrete_self_gram_matrix",
+    "concrete_self_trace_determinant",
+    "elliptic_affine_point_count",
+    "elliptic_projective_point_count",
+    "elliptic_frobenius_trace"
+  ],
+  "declaration_count": 9,
+  "axiom_reports": [
+    "'SemistableAppendix.reduced_differential_square_zero' does not depend on any axioms",
+    "'SemistableAppendix.scalar_block_trace' depends on axioms: [propext]",
+    "'SemistableAppendix.concrete_dual_matrices_are_trace_zero' depends on axioms: [propext]",
+    "'SemistableAppendix.concrete_projective_dual_pairing' depends on axioms: [propext]",
+    "'SemistableAppendix.concrete_self_gram_matrix' depends on axioms: [propext]",
+    "'SemistableAppendix.concrete_self_trace_determinant' depends on axioms: [propext]",
+    "'SemistableAppendix.elliptic_affine_point_count' does not depend on any axioms",
+    "'SemistableAppendix.elliptic_projective_point_count' does not depend on any axioms",
+    "'SemistableAppendix.elliptic_frobenius_trace' does not depend on any axioms"
+  ],
+  "source_contains_proof_placeholders": false,
+  "source_declares_axioms": false,
+  "playground_execution": "Attempted public Lean playground; WebSocket connection failed through the execution environment proxy. No successful playground run is claimed."
+}

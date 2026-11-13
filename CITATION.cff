@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and identify the repository release or commit used."
+type: software
+title: 'Selected Lean 4 checks for "Semistable 1-motives: monodromy, explicit periods, and local duality"'
+authors:
+  - family-names: Mohajer
+    given-names: Mohammadreza
+abstract: "Lean 4.19.0 formalizations of nine selected algebraic statements and finite computations, with recorded compiler output and instructions for independent verification."
+keywords:
+  - Lean 4
+  - formal verification
+  - semistable 1-motives
+  - explicit computations

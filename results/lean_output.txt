@@ -1,0 +1,9 @@
+'SemistableAppendix.reduced_differential_square_zero' does not depend on any axioms
+'SemistableAppendix.scalar_block_trace' depends on axioms: [propext]
+'SemistableAppendix.concrete_dual_matrices_are_trace_zero' depends on axioms: [propext]
+'SemistableAppendix.concrete_projective_dual_pairing' depends on axioms: [propext]
+'SemistableAppendix.concrete_self_gram_matrix' depends on axioms: [propext]
+'SemistableAppendix.concrete_self_trace_determinant' depends on axioms: [propext]
+'SemistableAppendix.elliptic_affine_point_count' does not depend on any axioms
+'SemistableAppendix.elliptic_projective_point_count' does not depend on any axioms
+'SemistableAppendix.elliptic_frobenius_trace' does not depend on any axioms
